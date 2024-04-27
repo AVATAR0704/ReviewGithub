@@ -18,6 +18,7 @@ struct ContentView: View {
                 .fontWeight(.black)
             Rectangle()
                 .cornerRadius(10)
+            Circle()
         }
         .padding()
         .foregroundColor(.purple)
